@@ -11,3 +11,4 @@ System engineering and DevOps projects for the ALU curriculum.
 - [web_stack_debugging_1](./web_stack_debugging_1) - Getting Nginx to listen on port 80 again
 - [web_stack_debugging_2](./web_stack_debugging_2) - Running software, including Nginx, as a user other than root
 - [web_stack_debugging_3](./web_stack_debugging_3) - Finding a WordPress 500 error with strace and fixing it with Puppet
+- [web_stack_debugging_4](./web_stack_debugging_4) - Raising the Nginx open file limit so it handles heavy traffic
