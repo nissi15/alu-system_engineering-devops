@@ -9,3 +9,4 @@ System engineering and DevOps projects for the ALU curriculum.
 - [firewall](./firewall) - Blocking all incoming traffic on a server except SSH, HTTP and HTTPS with ufw
 - [web_stack_debugging_0](./web_stack_debugging_0) - Getting Apache to serve a page inside a broken Docker container
 - [web_stack_debugging_1](./web_stack_debugging_1) - Getting Nginx to listen on port 80 again
+- [web_stack_debugging_2](./web_stack_debugging_2) - Running software, including Nginx, as a user other than root
